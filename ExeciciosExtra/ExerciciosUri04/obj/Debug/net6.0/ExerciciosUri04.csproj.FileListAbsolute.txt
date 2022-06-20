@@ -1,0 +1,15 @@
+D:\dev\dotnet\ws-vs2019\ExerciciosUri04\bin\Debug\net6.0\ExerciciosUri04.exe
+D:\dev\dotnet\ws-vs2019\ExerciciosUri04\bin\Debug\net6.0\ExerciciosUri04.deps.json
+D:\dev\dotnet\ws-vs2019\ExerciciosUri04\bin\Debug\net6.0\ExerciciosUri04.runtimeconfig.json
+D:\dev\dotnet\ws-vs2019\ExerciciosUri04\bin\Debug\net6.0\ExerciciosUri04.dll
+D:\dev\dotnet\ws-vs2019\ExerciciosUri04\bin\Debug\net6.0\ExerciciosUri04.pdb
+D:\dev\dotnet\ws-vs2019\ExerciciosUri04\obj\Debug\net6.0\ExerciciosUri04.csproj.AssemblyReference.cache
+D:\dev\dotnet\ws-vs2019\ExerciciosUri04\obj\Debug\net6.0\ExerciciosUri04.GeneratedMSBuildEditorConfig.editorconfig
+D:\dev\dotnet\ws-vs2019\ExerciciosUri04\obj\Debug\net6.0\ExerciciosUri04.AssemblyInfoInputs.cache
+D:\dev\dotnet\ws-vs2019\ExerciciosUri04\obj\Debug\net6.0\ExerciciosUri04.AssemblyInfo.cs
+D:\dev\dotnet\ws-vs2019\ExerciciosUri04\obj\Debug\net6.0\ExerciciosUri04.csproj.CoreCompileInputs.cache
+D:\dev\dotnet\ws-vs2019\ExerciciosUri04\obj\Debug\net6.0\ExerciciosUri04.dll
+D:\dev\dotnet\ws-vs2019\ExerciciosUri04\obj\Debug\net6.0\refint\ExerciciosUri04.dll
+D:\dev\dotnet\ws-vs2019\ExerciciosUri04\obj\Debug\net6.0\ExerciciosUri04.pdb
+D:\dev\dotnet\ws-vs2019\ExerciciosUri04\obj\Debug\net6.0\ExerciciosUri04.genruntimeconfig.cache
+D:\dev\dotnet\ws-vs2019\ExerciciosUri04\obj\Debug\net6.0\ref\ExerciciosUri04.dll

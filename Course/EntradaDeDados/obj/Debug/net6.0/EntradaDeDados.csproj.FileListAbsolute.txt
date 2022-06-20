@@ -1,0 +1,15 @@
+D:\dev\dotnet\ws-vs2019\Course\EntradaDeDados\bin\Debug\net6.0\EntradaDeDados.exe
+D:\dev\dotnet\ws-vs2019\Course\EntradaDeDados\bin\Debug\net6.0\EntradaDeDados.deps.json
+D:\dev\dotnet\ws-vs2019\Course\EntradaDeDados\bin\Debug\net6.0\EntradaDeDados.runtimeconfig.json
+D:\dev\dotnet\ws-vs2019\Course\EntradaDeDados\bin\Debug\net6.0\EntradaDeDados.dll
+D:\dev\dotnet\ws-vs2019\Course\EntradaDeDados\bin\Debug\net6.0\EntradaDeDados.pdb
+D:\dev\dotnet\ws-vs2019\Course\EntradaDeDados\obj\Debug\net6.0\EntradaDeDados.csproj.AssemblyReference.cache
+D:\dev\dotnet\ws-vs2019\Course\EntradaDeDados\obj\Debug\net6.0\EntradaDeDados.GeneratedMSBuildEditorConfig.editorconfig
+D:\dev\dotnet\ws-vs2019\Course\EntradaDeDados\obj\Debug\net6.0\EntradaDeDados.AssemblyInfoInputs.cache
+D:\dev\dotnet\ws-vs2019\Course\EntradaDeDados\obj\Debug\net6.0\EntradaDeDados.AssemblyInfo.cs
+D:\dev\dotnet\ws-vs2019\Course\EntradaDeDados\obj\Debug\net6.0\EntradaDeDados.csproj.CoreCompileInputs.cache
+D:\dev\dotnet\ws-vs2019\Course\EntradaDeDados\obj\Debug\net6.0\EntradaDeDados.dll
+D:\dev\dotnet\ws-vs2019\Course\EntradaDeDados\obj\Debug\net6.0\refint\EntradaDeDados.dll
+D:\dev\dotnet\ws-vs2019\Course\EntradaDeDados\obj\Debug\net6.0\EntradaDeDados.pdb
+D:\dev\dotnet\ws-vs2019\Course\EntradaDeDados\obj\Debug\net6.0\EntradaDeDados.genruntimeconfig.cache
+D:\dev\dotnet\ws-vs2019\Course\EntradaDeDados\obj\Debug\net6.0\ref\EntradaDeDados.dll

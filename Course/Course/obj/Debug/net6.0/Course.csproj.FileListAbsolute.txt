@@ -1,0 +1,15 @@
+D:\dev\dotnet\ws-vs2019\Course\Course\bin\Debug\net6.0\Course.exe
+D:\dev\dotnet\ws-vs2019\Course\Course\bin\Debug\net6.0\Course.deps.json
+D:\dev\dotnet\ws-vs2019\Course\Course\bin\Debug\net6.0\Course.runtimeconfig.json
+D:\dev\dotnet\ws-vs2019\Course\Course\bin\Debug\net6.0\Course.dll
+D:\dev\dotnet\ws-vs2019\Course\Course\bin\Debug\net6.0\Course.pdb
+D:\dev\dotnet\ws-vs2019\Course\Course\obj\Debug\net6.0\Course.csproj.AssemblyReference.cache
+D:\dev\dotnet\ws-vs2019\Course\Course\obj\Debug\net6.0\Course.GeneratedMSBuildEditorConfig.editorconfig
+D:\dev\dotnet\ws-vs2019\Course\Course\obj\Debug\net6.0\Course.AssemblyInfoInputs.cache
+D:\dev\dotnet\ws-vs2019\Course\Course\obj\Debug\net6.0\Course.AssemblyInfo.cs
+D:\dev\dotnet\ws-vs2019\Course\Course\obj\Debug\net6.0\Course.csproj.CoreCompileInputs.cache
+D:\dev\dotnet\ws-vs2019\Course\Course\obj\Debug\net6.0\Course.dll
+D:\dev\dotnet\ws-vs2019\Course\Course\obj\Debug\net6.0\refint\Course.dll
+D:\dev\dotnet\ws-vs2019\Course\Course\obj\Debug\net6.0\Course.pdb
+D:\dev\dotnet\ws-vs2019\Course\Course\obj\Debug\net6.0\Course.genruntimeconfig.cache
+D:\dev\dotnet\ws-vs2019\Course\Course\obj\Debug\net6.0\ref\Course.dll
