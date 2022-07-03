@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "CH/2LUG667x0c5uG6dlAGWyK/bmL0K2FlJYwhFU+JXBWq5IX0/8PzeNxKwKSYYI7i3eCrp7JRXtM9kHiu4PvMg==",
+  "dgSpecHash": "1zLw9e4suzmrttshVfI2kP5L4xV+8T3sMZSr6oxjqDQbByirm80axqsAVvrKOBDQKO6vRvxIDlhqrXz3LsiBIw==",
   "success": true,
-  "projectFilePath": "D:\\dev\\dotnet\\ws-vs2019\\ExecicioUri2\\ExerciciosUri02.csproj",
+  "projectFilePath": "D:\\dev\\dotnet\\csharp-study\\ExeciciosExtra\\ExerciciosUri02\\ExerciciosUri02.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

@@ -1,0 +1,15 @@
+D:\dev\dotnet\csharp-study\ExeciciosExtra\ExerciciosUri09\bin\Debug\net6.0\ExerciciosUri09.exe
+D:\dev\dotnet\csharp-study\ExeciciosExtra\ExerciciosUri09\bin\Debug\net6.0\ExerciciosUri09.deps.json
+D:\dev\dotnet\csharp-study\ExeciciosExtra\ExerciciosUri09\bin\Debug\net6.0\ExerciciosUri09.runtimeconfig.json
+D:\dev\dotnet\csharp-study\ExeciciosExtra\ExerciciosUri09\bin\Debug\net6.0\ExerciciosUri09.dll
+D:\dev\dotnet\csharp-study\ExeciciosExtra\ExerciciosUri09\bin\Debug\net6.0\ExerciciosUri09.pdb
+D:\dev\dotnet\csharp-study\ExeciciosExtra\ExerciciosUri09\obj\Debug\net6.0\ExerciciosUri09.csproj.AssemblyReference.cache
+D:\dev\dotnet\csharp-study\ExeciciosExtra\ExerciciosUri09\obj\Debug\net6.0\ExerciciosUri09.GeneratedMSBuildEditorConfig.editorconfig
+D:\dev\dotnet\csharp-study\ExeciciosExtra\ExerciciosUri09\obj\Debug\net6.0\ExerciciosUri09.AssemblyInfoInputs.cache
+D:\dev\dotnet\csharp-study\ExeciciosExtra\ExerciciosUri09\obj\Debug\net6.0\ExerciciosUri09.AssemblyInfo.cs
+D:\dev\dotnet\csharp-study\ExeciciosExtra\ExerciciosUri09\obj\Debug\net6.0\ExerciciosUri09.csproj.CoreCompileInputs.cache
+D:\dev\dotnet\csharp-study\ExeciciosExtra\ExerciciosUri09\obj\Debug\net6.0\ExerciciosUri09.dll
+D:\dev\dotnet\csharp-study\ExeciciosExtra\ExerciciosUri09\obj\Debug\net6.0\refint\ExerciciosUri09.dll
+D:\dev\dotnet\csharp-study\ExeciciosExtra\ExerciciosUri09\obj\Debug\net6.0\ExerciciosUri09.pdb
+D:\dev\dotnet\csharp-study\ExeciciosExtra\ExerciciosUri09\obj\Debug\net6.0\ExerciciosUri09.genruntimeconfig.cache
+D:\dev\dotnet\csharp-study\ExeciciosExtra\ExerciciosUri09\obj\Debug\net6.0\ref\ExerciciosUri09.dll

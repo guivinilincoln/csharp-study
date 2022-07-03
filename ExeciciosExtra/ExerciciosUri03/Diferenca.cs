@@ -1,6 +1,4 @@
-﻿using System;
-
-namespace EntradaDeDados {
+﻿namespace EntradaDeDados {
     class Diferenca {
         static void Main(string[] args) {
             int a = int.Parse(Console.ReadLine());

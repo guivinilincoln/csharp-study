@@ -1,6 +1,4 @@
-﻿using System;
-
-namespace EntradaDeDados {
+﻿namespace EntradaDeDados {
     class Soma {
         static void Main(string[] args) {
             int n1 = int.Parse(Console.ReadLine());

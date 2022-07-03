@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\dev\\dotnet\\ws-vs2019\\ExerciciosUri06\\ExerciciosUri06.csproj",
+      "projectUniqueName": "D:\\dev\\dotnet\\csharp-study\\ExeciciosExtra\\ExerciciosUri06\\ExerciciosUri06.csproj",
       "projectName": "ExerciciosUri06",
-      "projectPath": "D:\\dev\\dotnet\\ws-vs2019\\ExerciciosUri06\\ExerciciosUri06.csproj",
+      "projectPath": "D:\\dev\\dotnet\\csharp-study\\ExeciciosExtra\\ExerciciosUri06\\ExerciciosUri06.csproj",
       "packagesPath": "C:\\Users\\guiga\\.nuget\\packages\\",
-      "outputPath": "D:\\dev\\dotnet\\ws-vs2019\\ExerciciosUri06\\obj\\",
+      "outputPath": "D:\\dev\\dotnet\\csharp-study\\ExeciciosExtra\\ExerciciosUri06\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

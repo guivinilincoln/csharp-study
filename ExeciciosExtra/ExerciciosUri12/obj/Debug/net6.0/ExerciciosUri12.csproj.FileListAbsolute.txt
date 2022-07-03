@@ -1,0 +1,15 @@
+D:\dev\dotnet\csharp-study\ExeciciosExtra\ExerciciosUri12\obj\Debug\net6.0\ExerciciosUri12.csproj.AssemblyReference.cache
+D:\dev\dotnet\csharp-study\ExeciciosExtra\ExerciciosUri12\obj\Debug\net6.0\ExerciciosUri12.GeneratedMSBuildEditorConfig.editorconfig
+D:\dev\dotnet\csharp-study\ExeciciosExtra\ExerciciosUri12\obj\Debug\net6.0\ExerciciosUri12.AssemblyInfoInputs.cache
+D:\dev\dotnet\csharp-study\ExeciciosExtra\ExerciciosUri12\obj\Debug\net6.0\ExerciciosUri12.AssemblyInfo.cs
+D:\dev\dotnet\csharp-study\ExeciciosExtra\ExerciciosUri12\obj\Debug\net6.0\ExerciciosUri12.csproj.CoreCompileInputs.cache
+D:\dev\dotnet\csharp-study\ExeciciosExtra\ExerciciosUri12\bin\Debug\net6.0\ExerciciosUri12.exe
+D:\dev\dotnet\csharp-study\ExeciciosExtra\ExerciciosUri12\bin\Debug\net6.0\ExerciciosUri12.deps.json
+D:\dev\dotnet\csharp-study\ExeciciosExtra\ExerciciosUri12\bin\Debug\net6.0\ExerciciosUri12.runtimeconfig.json
+D:\dev\dotnet\csharp-study\ExeciciosExtra\ExerciciosUri12\bin\Debug\net6.0\ExerciciosUri12.dll
+D:\dev\dotnet\csharp-study\ExeciciosExtra\ExerciciosUri12\bin\Debug\net6.0\ExerciciosUri12.pdb
+D:\dev\dotnet\csharp-study\ExeciciosExtra\ExerciciosUri12\obj\Debug\net6.0\ExerciciosUri12.dll
+D:\dev\dotnet\csharp-study\ExeciciosExtra\ExerciciosUri12\obj\Debug\net6.0\refint\ExerciciosUri12.dll
+D:\dev\dotnet\csharp-study\ExeciciosExtra\ExerciciosUri12\obj\Debug\net6.0\ExerciciosUri12.pdb
+D:\dev\dotnet\csharp-study\ExeciciosExtra\ExerciciosUri12\obj\Debug\net6.0\ExerciciosUri12.genruntimeconfig.cache
+D:\dev\dotnet\csharp-study\ExeciciosExtra\ExerciciosUri12\obj\Debug\net6.0\ref\ExerciciosUri12.dll

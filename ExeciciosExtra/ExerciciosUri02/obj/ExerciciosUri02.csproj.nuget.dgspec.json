@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\dev\\dotnet\\ws-vs2019\\ExecicioUri2\\ExerciciosUri02.csproj": {}
+    "D:\\dev\\dotnet\\csharp-study\\ExeciciosExtra\\ExerciciosUri02\\ExerciciosUri02.csproj": {}
   },
   "projects": {
-    "D:\\dev\\dotnet\\ws-vs2019\\ExecicioUri2\\ExerciciosUri02.csproj": {
+    "D:\\dev\\dotnet\\csharp-study\\ExeciciosExtra\\ExerciciosUri02\\ExerciciosUri02.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\dev\\dotnet\\ws-vs2019\\ExecicioUri2\\ExerciciosUri02.csproj",
+        "projectUniqueName": "D:\\dev\\dotnet\\csharp-study\\ExeciciosExtra\\ExerciciosUri02\\ExerciciosUri02.csproj",
         "projectName": "ExerciciosUri02",
-        "projectPath": "D:\\dev\\dotnet\\ws-vs2019\\ExecicioUri2\\ExerciciosUri02.csproj",
+        "projectPath": "D:\\dev\\dotnet\\csharp-study\\ExeciciosExtra\\ExerciciosUri02\\ExerciciosUri02.csproj",
         "packagesPath": "C:\\Users\\guiga\\.nuget\\packages\\",
-        "outputPath": "D:\\dev\\dotnet\\ws-vs2019\\ExecicioUri2\\obj\\",
+        "outputPath": "D:\\dev\\dotnet\\csharp-study\\ExeciciosExtra\\ExerciciosUri02\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
