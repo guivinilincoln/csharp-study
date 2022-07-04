@@ -1,6 +1,6 @@
 ﻿using System.Globalization;
 
-namespace ExerciciosUri11 {
+namespace ExerciciosUri14 {
     class Imposto {
         static void Main(string[] args) {
             double salario = double.Parse(Console.ReadLine(), CultureInfo.InvariantCulture);
